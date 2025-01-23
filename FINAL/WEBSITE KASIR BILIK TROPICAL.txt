@@ -1,0 +1,16 @@
+WEBSITE KASIR BILIK TROPICAL LOG-IN
+
+https://biliktropical.000webhostapp.com/login
+
+Login Admin :
+
+Username : adminkasir
+Password : adminbilik19
+Login Kasir :
+
+Username : alvin
+Password : bilik19
+
+
+
+Developer : Alvin Maulana
